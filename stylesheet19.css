@@ -1,0 +1,31 @@
+.all{
+    background-color: rgb(252, 243, 233);
+}
+.mydiv1{
+    border: 1px solid;
+    width: 500px;
+    padding: 10px;
+    background-color: white;
+}
+.myspan{
+    background-color: rgb(250, 220, 164);
+}
+.myspan2{
+    background-color: rgb(241, 241, 166);
+}
+.mydiv2{
+    border: 3px dotted;
+    width: 500px;
+    padding: 10px;
+    background-color: white;
+}
+.myparag2{
+    border: 3px dotted red;
+}
+.mydiv3{
+    color: rgb(131, 31, 224);
+    border: 1px solid;
+    width: 500px;
+    padding: 10px;
+    background-color: white;
+}

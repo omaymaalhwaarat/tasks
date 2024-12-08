@@ -1,0 +1,12 @@
+.pic1 {
+    width:100%;
+    overflow:auto;
+  }
+  .pic2 div {
+    width:33%;
+    float:left;
+  }
+  .pic3 div {
+    width:33%;
+    float:left;
+  }

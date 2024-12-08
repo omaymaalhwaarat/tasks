@@ -1,0 +1,27 @@
+.blue{
+    color: blue;
+}
+.under{
+    color:orange ;
+}
+.underlink{
+    background-color: yellow;
+    color: rgb(161, 107, 8);
+}
+.clickme{
+    color: red;
+    font-size: 19px;
+    font-weight: bold;
+}
+.ulist{
+    color: blue;
+}
+.underlink2{
+    color: red;
+}
+.li1{
+    font-weight: bold;
+}
+.nonec{
+    list-style-type: none;
+}
